@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stevebiczyk
 - 👀 I’m interested in data science and web development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on basic Python projects.
 - 📫 How to reach me ...
 
 <!---

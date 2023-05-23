@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stevebiczyk
-- 👀 I’m interested in data science and web development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on basic Python projects.
+- 👀 I’m interested in web development and data science.
+- 🌱 I’m currently learning Full Stack Web Development at the Code Institute.
+- 💞️ I’m looking to collaborate on Front End and Full Stack projects, I'm skilled in HTML, CSS, JavaScript and Python.
 - 📫 How to reach me ...
 
 <!---

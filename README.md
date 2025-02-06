@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stevebiczyk
 - 👀 I’m interested in web development and software development.
-- 🌱 I have a Diploma in Full Stack Web Development from the Code Institute and a Diploma in Software Development from the Barhacs Education and Exam Centre in Budapest.
+- 🌱 I have a Level 5 Diploma in Full Stack Web Development from the Code Institute and a Diploma in Software Development from the Barhacs & Co. Education and Exam Centre in Budapest.
 - 💞️ I’m looking to collaborate on Front End and Full Stack projects, I'm skilled in HTML, CSS, JavaScript, Python, Django and React, PostgreSQL, MongoDB and Delphi.
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/istvan-biczyk/
 
